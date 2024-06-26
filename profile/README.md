@@ -37,22 +37,6 @@ Neurotech utilizes Machine Learning and Artificial Intelligence technologies to 
 ## Our Products
 Here are some solutions crafted by our team.
 
-### Sarufi
-Conversational AI platform that allows developers to easily build and deploy chatbots.
-
-[View Project](#)
-
----
-
-## Contact Us
-
-**Neurotech Africa**
-
-[info@neurotech.africa](mailto:info@neurotech.africa)  
-+255 757 284 146
-
----
-
 
 # Sarufi AI - Empower Your Business with an AI-driven Chatbot
 
