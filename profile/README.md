@@ -1,12 +1,13 @@
 <samp>
-# Welcome to Neurotech Africa
+# Welcome to NeuroTech Africa
 
-At [Neurotech Africa](https://neurotech.africa/) we are super passionate about building tools that enables developer build all kinds of NLP solutions for African languages.
+At NeuroTech Africa, we are passionate about creating tools that enable developers to build a variety of NLP solutions for African languages.
 
-You might know us through our rockstar product [sarufi](https://www.sarufi.io/), low code/No code platforms that allows you to quickly build chatbots, integrate it with third-parties, and deploy across platform from bare bone SMS, USSD to WhatsApp and Messenger chatbots, You can learn more about _sarufi_ through this link [docs](https://docs.sarufi.io/docs)
+Our flagship product, Sarufi, is a low-code/no-code platform that allows you to quickly build chatbots, integrate with third-party services, and deploy across multiple platforms, including SMS, USSD, WhatsApp, and Messenger. Learn more about Sarufi through our [documentation](https://docs.sarufi.io).
 
-You can also read our technical articles here [sarufi](https://docs.sarufi.io/docs)
+You can also explore our technical articles [here](https://sarufi.io/articles).
 
-Incase of anything, you can always reach out through info(@)sarufi.io 
+For any inquiries, feel free to reach out to us at info(@)sarufi.io.
+
 </samp>
 
