@@ -1,20 +1,12 @@
-# Neurotech Africa - Automate Customer Experience Using Conversational AI
+<samp>
+# Welcome to Neurotech Africa
 
-Utilize your consumers' digital engagements, relationships, and experiences to produce effective business results with actionable insights.
+At [Neurotech Africa](https://neurotech.africa/) we are super passionate about building tools that enables developer build all kinds of NLP solutions for African languages.
 
-## Core Features that Make Sarufi Valuable
+You might know us through our rockstar product [sarufi](https://www.sarufi.io/), low code/No code platforms that allows you to quickly build chatbots, integrate it with third-parties, and deploy across platform from bare bone SMS, USSD to WhatsApp and Messenger chatbots, You can learn more about _sarufi_ through this link [docs](https://docs.sarufi.io/docs)
 
-### Rich Media Support
-With Sarufi's conversational AI engine, developers can create chatbots with images, videos, buttons, and more for a rich, interactive experience.
+You can also read our technical articles here [sarufi](https://docs.sarufi.io/docs)
 
-### Multilingual Support
-Sarufi supports multiple languages, including Kiswahili, allowing you to create chatbots for diverse audiences.
+Incase of anything, you can always reach out through info(@)sarufi.io 
+</samp>
 
-### Scalability
-Sarufi can handle thousands, even millions, of users. It scales up or down to meet demand, ensuring smooth performance.
-
-### Integration with Other Services
-Easily connect your chatbot with messaging platforms, bulk SMS clients, and web applications for wider reach.
-
-### In-app Integrations
-Seamlessly integrate with your favorite tools and services to enhance your chatbot experience. Choose from a wide range of payment gateways, messaging services, and more.
