@@ -2,16 +2,6 @@
 
 Utilize your consumers' digital engagements, relationships, and experiences to produce effective business results with actionable insights.
 
-## Get Started
-
-[Learn More](#)
-
-[View Projects](#)
-
----
-
----
-
 ## Core Features that Make Sarufi Valuable
 
 ### Rich Media Support
@@ -28,60 +18,3 @@ Easily connect your chatbot with messaging platforms, bulk SMS clients, and web 
 
 ### In-app Integrations
 Seamlessly integrate with your favorite tools and services to enhance your chatbot experience. Choose from a wide range of payment gateways, messaging services, and more.
-
-Supported Integrations:
-- Azam Pay
-- Mpesa
-- Swahilies
-- Zapier
-- Sarufi Wallet
-- SMS
-- Email
-
----
-
-## Chatbots
-
-### Create Your First Chatbot in No Time
-Design custom chatbots with ease using our intuitive interface. Ideal for developers and non-developers alike.
-
----
-
-## Contact Us
-**Sarufi AI**  
-SkyCity Mall, 9th Floor  
-Dar Es Salaam, Tanzania  
-[info@sarufi.io](mailto:info@sarufi.io)  
-+255 757 284 146
-
----
-
-## Product
-- [Standard Chatbot](#)
-- [Custom Chatbot](#)
-- [Rich Media Support](#)
-- [Data Validation](#)
-- [Analytics](#)
-
-## Company
-- [Neurotech](#)
-
-## Community
-- [Community Bots](#)
-- [University Ambassador](#)
-- [Contribute A Package](#)
-
-## Support
-- [FAQ](#)
-- [Getting Started](#)
-- [Suggest A Feature](#)
-- [Report A Bug](#)
-- [Terms of Service](#)
-- [Privacy Policy](#)
-
-© 2022 - 2024 Sarufi AI
-
-![Logo](#)  
-![Neurotech Logo](#)
-
----
